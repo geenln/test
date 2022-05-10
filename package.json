@@ -1,23 +1,23 @@
 {
   "name": "geenin-test",
   "type": "module",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@7.0.0",
   "description": "",
   "keywords": [
     "geenin"
   ],
-  "homepage": "https://github.com/antfu/geenin-test#readme",
+  "homepage": "https://github.com/geenin/test#readme",
   "bugs": {
-    "url": "https://github.com/antfu/geenin-test/issues"
+    "url": "https://github.com/geenin/test/issues"
   },
   "license": "MIT",
   "author": "Anthony Fu <anthonyfu117@hotmail.com>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/geenin-test.git"
+    "url": "git+https://github.com/geenin/test.git"
   },
-  "funding": "https://github.com/sponsors/antfu",
+  "funding": "https://github.com/sponsors/geenin",
   "main": "./dist/index.mjs",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
@@ -51,8 +51,8 @@
     "typecheck": "tsc --noEmit"
   },
   "devDependencies": {
-    "@antfu/eslint-config": "^0.23.0",
-    "@antfu/ni": "^0.16.2",
+    "@geenin/eslint-config": "^0.23.0",
+    "@geenin/ni": "^0.16.2",
     "@types/node": "^17.0.31",
     "bumpp": "^7.1.1",
     "eslint": "^8.14.0",
