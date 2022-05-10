@@ -1,10 +1,12 @@
 {
   "name": "geenin-test",
   "type": "module",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "packageManager": "pnpm@7.0.0",
   "description": "",
-  "keywords": ["geenin"],
+  "keywords": [
+    "geenin"
+  ],
   "homepage": "https://github.com/antfu/geenin-test#readme",
   "bugs": {
     "url": "https://github.com/antfu/geenin-test/issues"
