@@ -4,7 +4,7 @@
   "version": "0.0.1",
   "packageManager": "pnpm@7.0.0",
   "description": "",
-  "keywords": [],
+  "keywords": ["geenin"],
   "homepage": "https://github.com/antfu/geenin-test#readme",
   "bugs": {
     "url": "https://github.com/antfu/geenin-test/issues"
